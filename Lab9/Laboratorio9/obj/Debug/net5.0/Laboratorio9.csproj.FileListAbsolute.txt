@@ -1,0 +1,4 @@
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.csproj.CoreCompileInputs.cache
