@@ -2,3 +2,15 @@ C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratori
 C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.AssemblyInfoInputs.cache
 C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.AssemblyInfo.cs
 C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.csproj.AssemblyReference.cache
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\Laboratorio9.exe
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\Laboratorio9.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\Laboratorio9.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\Laboratorio9.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\Laboratorio9.dll
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\ref\Laboratorio9.dll
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\bin\Debug\net5.0\Laboratorio9.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.dll
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\ref\Laboratorio9.dll
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio9\Lab9\Laboratorio9\obj\Debug\net5.0\Laboratorio9.genruntimeconfig.cache
